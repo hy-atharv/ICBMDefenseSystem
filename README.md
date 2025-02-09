@@ -7,8 +7,11 @@ width=600
 
 
 - **Developed in Java and JavaFX**
-- **Assumes ideal conditions, ignores aerodynamic drag, gravity at different heights and points on Earth and performs projectile calculations and projects the Realtime Movements on a Rectangular Map with the help of Mercator Projection**
-- **Even with estimations, it provides calculations with upto 80% accuracy**
+- **Assumes ideal conditions and standard gravity on Earth at sea level.**
+- **Ignores Aerodynamic Drag since the ICBM spends most of its time in the Midcourse Phase, which is outside the Earth's Atmosphere.**
+- **Ignores gravity at different altitudes and points on Earth and considers only the standard gravity.**
+- **Performs projectile calculations and projects the Realtime Movements on a Rectangular Map with the help of Mercator Projection**
+- **Even with above assumptions, it provides calculations with upto 80% accuracy**
 
 ### Demo Video
 
