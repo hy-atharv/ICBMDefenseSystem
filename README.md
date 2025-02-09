@@ -1,5 +1,9 @@
 ## Intercontinental Ballistic Missile Defense System Simulation Software
 
+<img
+src="https://github.com/user-attachments/assets/92db4943-6b69-45ef-81bb-23af2db9db34"
+width=600
+/>
 
 
 - **Developed in Java and JavaFX**
